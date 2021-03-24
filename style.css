@@ -246,6 +246,7 @@ footer {
   text-align: center;
 }
 footer a {
+  color: var(--grey4);
   font-weight: 700;
 }
 
